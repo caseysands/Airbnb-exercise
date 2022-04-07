@@ -5,3 +5,4 @@
 -- +----------+
 
 
+SELECT count(id) FROM listings WHERE neighborhood = "Lincoln Park";
